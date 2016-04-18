@@ -1,0 +1,28 @@
+name: "L'arbre sans palabres"
+favicon: null
+layout_spectrum: 0.8969671945087612
+typography_spectrum: 0.23229750921018422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.33714109589345753
+  lightness: 0.4760753186419606
+  saturation: 0.7109117803629488
+  rhythmicContrast: 0.7838667929172516
+purpose: []
